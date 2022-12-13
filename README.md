@@ -1,8 +1,8 @@
-## Barbearia
+## Barbearia Alura - Página WEB
   
 </details>
 
-![Thumbnails Barbearia Alura](https://user-images.githubusercontent.com/119821121/207219517-8f1dbc4d-99ab-476e-8ee6-7a0cf07a902a.png))
+![Thumbnails Barbearia Alura](https://user-images.githubusercontent.com/119821121/207219517-8f1dbc4d-99ab-476e-8ee6-7a0cf07a902a.png)
 
 </details>
   
