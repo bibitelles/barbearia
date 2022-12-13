@@ -11,7 +11,7 @@ Um site completo contendo três páginas: Home, Produtos e Formulário de Contat
 ## 🔨 Funcionalidades do projeto
 
 ## ✔️ Técnicas e tecnologias utilizadas
--`HTML`:
+- `HTML`:
 - `CSS`:
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/bibitelles/barbearia).
